@@ -4,7 +4,7 @@ package ninechapter;
  * http://www.ninechapter.com/problem/2/
  * 
  * @author xin
- *
+ * @date: 02/14/2015
  */
 public class Problem2 {
 
